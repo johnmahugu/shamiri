@@ -7,3 +7,7 @@ journaling_app_backend/
 ├── summary.py
 ├── utils.py
 └── requirements.txt
+setup_database.py
+populate_database.py
+clear_database.py
+
