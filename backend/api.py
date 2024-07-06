@@ -186,4 +186,4 @@ def get_summary(user_id, period):
 # Main function to run the application
 if __name__ == "__main__":
     init_db()
-    run(app, host='localhost', port=8000, debug=True)
+    run(app, host='localhost', port=4375, debug=True)
