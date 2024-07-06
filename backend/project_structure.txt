@@ -10,3 +10,4 @@ journaling_app_backend/
 setup_database.py
 populate_database.py
 clear_database.py
+
