@@ -1,0 +1,12 @@
+journaling_app_backend/
+├── venv/
+├── app.py
+├── models.py
+├── auth.py
+├── journal.py
+├── summary.py
+├── utils.py
+└── requirements.txt
+setup_database.py
+populate_database.py
+clear_database.py
