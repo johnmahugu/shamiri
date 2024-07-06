@@ -1,0 +1,13 @@
+App Structure
+1. src/navigation/AppNavigator.tsx
+2. src/navigation/AuthNavigator.tsx
+3. src/screens/Auth/LoginScreen.tsx
+4.  src/screens/Auth/RegisterScreen.tsx
+5.  src/screens/HomeScreen.tsx
+6.  src/screens/Journal/JournalScreen.tsx
+7.src/screens/Journal/AddEntryScreen.tsx
+8.  src/screens/Journal/EditEntryScreen.tsx
+9.  src/screens/SettingsScreen.tsx
+10. src/context/AuthContext.tsx
+11. src/api/api.ts
+12. src/components/EntryItem.tsx
