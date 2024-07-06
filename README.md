@@ -69,7 +69,7 @@ The Shamiri Health Journaling App is a mobile application and backend service de
 #### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/johnmahugu/shamiri.git
    ```
 2. **Navigate to the Backend Directory**:
    ```bash
@@ -110,7 +110,7 @@ The Shamiri Health Journaling App is a mobile application and backend service de
 #### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/johnmahugu/shamiri.git
    ```
 2. **Navigate to the Mobile Directory**:
    ```bash
@@ -157,6 +157,6 @@ The Shamiri Health Journaling App is a mobile application and backend service de
 
 ## Feedback
 
-The project implementation covered various essential features and demonstrated proficiency in both frontend and backend development. It provided a comprehensive understanding of integrating a mobile application with a backend service, focusing on usability, security, and performance. The setup instructions, documentation, and code structure were crafted to ensure ease of understanding and use. 
+The project implementation aims to cover various essential features and to demonstrate proficiency in both frontend and backend development. It provides a comprehensive demonstration of understanding of integrating a mobile application with a backend service, focusing on usability, security, and performance. The setup instructions, documentation, and code structure were crafted to ensure ease of understanding and use. 
 
-If you have any questions or feedback, feel free to reach out. Thank you!
+If you have any questions or feedback, feel free to reach out. Thank you! johnmahugu@gmail.com
